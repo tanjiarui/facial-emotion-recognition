@@ -47,8 +47,8 @@ This project is released under the Apache License. Please take their licenses in
     | 2 | 0.424 [weights](https://drive.google.com/open?id=1_yXrOrY0FDnH-d_FQIPbGy4z2ax4aNh8), [results](https://drive.google.com/open?id=1UQP8kDj7tXHC2bs--Aq8x7w7FkVX4xJD) |
     | 3 | 0.454 [weights](https://drive.google.com/open?id=1VnxoBpEQmm0Z2uO3gjhYDeu-rNirba6c), [results](https://drive.google.com/open?id=1uruTEMPhl_JvbA_T9kCdutzeOR3gFX4g) |
     | 4 | 0.483 [weights](https://drive.google.com/open?id=1lQvTpnO_mfkHCRpcP28dxU4CWyK3xUzj), [results](https://drive.google.com/open?id=1s4nmgYaPqjbAgDlRF1AVVz6uWKDz7O_i) |
-    
+
 ## Test
 `python3 inference.py` to test your image by specifying image path and model path there. 
 
-![image1](test/demo.jpg) 
+![image1](test/demo.jpg)

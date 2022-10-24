@@ -60,9 +60,5 @@ The init lr is 1e-4 and decays to 1e-5 when val mAP keeps dropping down.
 `python3 inference_quad.py` to test your image by specifying image path and model path there. 
 Here I share an immature [model](https://drive.google.com/open?id=1CgbmaMmrbwJnJgS6xQyEVH_5L79NfKpl) trained on ICDAR2015.
 
-![image1](test/img_68.jpg) 
-![image2](test/img_160.jpg)
-![image3](test/img_281.jpg)
-
 ## Reference
 - [《gliding vertex on the horizontal bounding box for multi-oriented object detection》](https://arxiv.org/abs/1911.09358)
